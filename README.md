@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maikol Jimenez</h1>
 <h3 align="center">A passionate frontend developer from D.R.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maikjim&label=Profile%20views&color=0e75b6&style=flat" alt="maikjim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maikjim&label=Profile%20views&color=0e75b6&style=flat" alt="maikjim" /> </p>
 
 - 🌱 I’m currently learning **javaScript and react**
 
